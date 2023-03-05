@@ -1,2 +1,2 @@
 # TH-BodyCam
-Bodycam System for QBCore/ESX 💸
+Bodycam System for QBCore/ESX 
